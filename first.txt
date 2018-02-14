@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 fsfsdfsdf
 Making further changes in the branch
 The changes were merged to master and master was pushed.
 Now working on Sbranch created in remote.
+=======
+>>>>>>> parent of 72f6022... commiting to branch
